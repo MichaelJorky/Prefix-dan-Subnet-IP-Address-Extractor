@@ -4,7 +4,7 @@
 
 Prefix dan Subnet IP Address Extractor adalah alat yang digunakan untuk mengekstrak dan menganalisis informasi dari alamat IP, seperti prefix (jumlah bit jaringan dalam format CIDR) dan subnet (mask, network ID, broadcast address, dan range host). Alat ini membantu memantau, mengelola, dan mengoptimalkan konfigurasi jaringan, terutama dalam pengaturan subnetting pada sistem yang kompleks.
 
-~ (v1.0.0.1) Senin 24 Desember 2024 - First Release Prefix IP Address Extractor by Xeme
+~ (v1.0.0.1) Selasa 24 Desember 2024 - First Release Prefix IP Address Extractor by Xeme
 
 #
 <b>[ Cara Penggunaan Aplikasi Prefix and Subnet IP Address Extractor ]</b>
