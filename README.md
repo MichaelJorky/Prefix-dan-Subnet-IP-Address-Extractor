@@ -52,4 +52,4 @@ Prefix dan Subnet IP Address Extractor adalah alat yang digunakan untuk mengekst
      * 192.168.1.1/2 Total 1073741824 IPs
      * 192.168.1.1/1 Total 2147483648 IPs
 
-5. Sebelum dibuka Aplikasinya edit dulu file prefix_list.txt lalu edit isinya dan sesuaikan dengan kebutuhan lalu buka aplikasi dan klik "Extract". maka output log akan menghasilkan file misalkan 19112025175314_IPs.txt
+5. Sebelum dibuka Aplikasinya edit dulu file prefix_list.txt lalu edit isinya dan sesuaikan dengan kebutuhan lalu buka aplikasinya dan klik "Extract". maka output log akan menghasilkan file misalkan 19112025175314_IPs.txt
